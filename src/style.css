@@ -3834,7 +3834,7 @@ video {
   }
 
   .content {
-    position: static;
+    position: absolute;
   }
 }
 
